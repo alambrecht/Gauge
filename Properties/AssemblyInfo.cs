@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Gauge")]
 [assembly: AssemblyDescription("Generate a gauge image")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Lutz Technology")]
+[assembly: AssemblyCompany("AndyWorks")]
 [assembly: AssemblyProduct("Gauge")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
