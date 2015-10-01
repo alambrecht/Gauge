@@ -43,6 +43,7 @@
     <EmbeddedResource Include="needle.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Gauge.nuspec" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>

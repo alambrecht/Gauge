@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
-[assembly: AssemblyTitle("Gauge")]
+[assembly: AssemblyTitle("AndyWorks Gauge")]
 [assembly: AssemblyDescription("Generate a gauge image")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AndyWorks")]
