@@ -5,6 +5,8 @@
 *.suo
 *.user
 *.sln.docstates
+*.nuspec
+Nuget.exe
 
 # Build results
 [Dd]ebug/
